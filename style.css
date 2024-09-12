@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.resume{
+    width: 700px;
+    background-color: whitesmoke;
+    margin: 100px;
+    height: 800px;
+    margin-left: 280px;
+}
+.name{
+    color: black;
+    text-align: center;
+    
+}
+.icon{
+    margin-left: 200px;
+    margin-top: 15px;
+    display: flex;
+}
+.icon p{
+    display: flex;
+    margin-left: 5px;
+    margin-right: 20px;
+}
+.icon_1{
+    margin-left: 200px;
+    margin-top: 15px;
+    display: flex;
+}
+.icon_1 p{
+    display: flex;
+    margin-left: 3px;
+    margin-right: 8px;
+}
+h2{
+    margin-left: 50px;
+}
+.intro{
+    margin:15px;
+}
+.project{
+    margin-left: 50px;
+    font-size:22px;
+}
+.project1{
+    margin:10px;
+    padding-bottom: 10px;
+}
+.project1 p, .education p{
+    margin:10px;
+
+}
+.intermediate {
+    display: flex;
+    justify-content:space-between ;
+}
+.intermediate.up, .intermediate .percentage{
+    margin-left:300px;
+}
+.language{
+    display: inline;
+    margin-left: 15px;
+}
+.Tools{
+    display: inline;
+    margin-left: 15px;
+}
+.skill{
+    display: inline;
+    margin-left: 15px;
+}
+.Tool{
+    margin-left: 45px;
+    display: inline;
+}
